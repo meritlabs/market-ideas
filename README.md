@@ -13,4 +13,6 @@ Describe the problem you have, are concerned about having in the future, or thin
 **Solution**:
 Describe the solution for your problem. Make it as detailed as possible.
 
+[Here](https://github.com/meritlabs/market-ideas/issues/1) is an example of what it should look like.
+
 Look up on this [markdown guide](https://guides.github.com/features/mastering-markdown/) to enhance your issue.
